@@ -422,7 +422,7 @@ bubble after this!!*/
 .container {
   width: 100%;
   height: 150vh;
-  background-color: rgb(19, 39, 93);
+  background-color: rgb(19, 39, 93); 
   position: relative;
   overflow:scroll;
  
@@ -431,7 +431,7 @@ bubble after this!!*/
 .containerhome {
   width: 100%;
   height: 80vh;
-  background-color: rgb(19, 39, 93);
+  background-color: rgb(19, 39, 93); 
   position: relative;overflow:scroll;
  
 }
